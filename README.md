@@ -1,10 +1,12 @@
 # ml2025
 
 * [No.1](001.md)
+  * [No.1 Ex](ex/001.md)
+  * [No.1 Ex2](ex/001_2.md)
 * [No.2](002.md)
 * [No.3](003.md)
 * [No.4](004.md)
-  * [No.4 Ex](ex/001.md)
+  * [No.4 Ex](ex/004.md)
 * No.5
 * No.6
 * No.7
